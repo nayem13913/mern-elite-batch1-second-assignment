@@ -8,4 +8,8 @@ I learned 5 things from Mern Elite Batch 1 course.
 4. Code push from Local computer: From this course I learned how to push my code from my local computer to remote repositories. Now I can easily push my code by git init, git add, git commit, git push.
 5. Git Collab and Branching:- Now I can create multiple branch in my repositoiry. And I can collabrating anyone who can change my code. 
 
+# Two more thins added
+6. Create issue:- Anyone can contribute my code by making issues.
+7. We can merge our code form multiple branch where we making changes
+
 - N:B: I am not so good in English. I wrote this five things by myself.
